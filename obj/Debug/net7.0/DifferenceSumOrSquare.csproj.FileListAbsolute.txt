@@ -1,0 +1,15 @@
+C:\Users\ASUS\PatikaDev\DifferenceSumOrSquare\bin\Debug\net7.0\DifferenceSumOrSquare.exe
+C:\Users\ASUS\PatikaDev\DifferenceSumOrSquare\bin\Debug\net7.0\DifferenceSumOrSquare.deps.json
+C:\Users\ASUS\PatikaDev\DifferenceSumOrSquare\bin\Debug\net7.0\DifferenceSumOrSquare.runtimeconfig.json
+C:\Users\ASUS\PatikaDev\DifferenceSumOrSquare\bin\Debug\net7.0\DifferenceSumOrSquare.dll
+C:\Users\ASUS\PatikaDev\DifferenceSumOrSquare\bin\Debug\net7.0\DifferenceSumOrSquare.pdb
+C:\Users\ASUS\PatikaDev\DifferenceSumOrSquare\obj\Debug\net7.0\DifferenceSumOrSquare.csproj.AssemblyReference.cache
+C:\Users\ASUS\PatikaDev\DifferenceSumOrSquare\obj\Debug\net7.0\DifferenceSumOrSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\PatikaDev\DifferenceSumOrSquare\obj\Debug\net7.0\DifferenceSumOrSquare.AssemblyInfoInputs.cache
+C:\Users\ASUS\PatikaDev\DifferenceSumOrSquare\obj\Debug\net7.0\DifferenceSumOrSquare.AssemblyInfo.cs
+C:\Users\ASUS\PatikaDev\DifferenceSumOrSquare\obj\Debug\net7.0\DifferenceSumOrSquare.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\PatikaDev\DifferenceSumOrSquare\obj\Debug\net7.0\DifferenceSumOrSquare.dll
+C:\Users\ASUS\PatikaDev\DifferenceSumOrSquare\obj\Debug\net7.0\refint\DifferenceSumOrSquare.dll
+C:\Users\ASUS\PatikaDev\DifferenceSumOrSquare\obj\Debug\net7.0\DifferenceSumOrSquare.pdb
+C:\Users\ASUS\PatikaDev\DifferenceSumOrSquare\obj\Debug\net7.0\DifferenceSumOrSquare.genruntimeconfig.cache
+C:\Users\ASUS\PatikaDev\DifferenceSumOrSquare\obj\Debug\net7.0\ref\DifferenceSumOrSquare.dll
